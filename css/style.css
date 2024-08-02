@@ -82,7 +82,8 @@ main {
     max-width: 1140px;
     margin: 0 auto;
 }
-section{
+
+section {
     margin-top: 130px;
 }
 
@@ -164,3 +165,5 @@ section{
     font-weight: 400;
     line-height: 28px;
 }
+
+/* Resume section style */
