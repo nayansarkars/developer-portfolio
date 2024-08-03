@@ -18,6 +18,19 @@
     padding: 18px 35px;
 }
 
+.btn-contact {
+    margin-left: 30px;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFF8F3;
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+
 .header {
     background: #FFF8F3;
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
@@ -171,7 +184,8 @@ section {
     gap: 30px;
     margin-top: 113px;
 }
-.resume-item{
+
+.resume-item {
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -194,30 +208,37 @@ section {
     color: #757575;
     line-height: 28px
 }
-.resume-button{
+
+.resume-button {
     margin-top: 50px;
     text-align: center;
 }
 
 /* Contact Section */
-.contact{
+.contact {
     display: flex;
     gap: 117px;
     background: #FFF8F3;
     padding: 130px 200px;
 }
-.contact .section-title{
+
+.contact .section-title {
     text-align: left;
 }
-.contact input[type="text"], input[type="email"], textarea{
+
+.contact input[type="text"],
+input[type="email"],
+textarea {
     margin-bottom: 24px;
     border: 0;
     width: 100%;
     padding: 18px 30px;
 }
-.contact input{
+
+.contact input {
     height: 64px;
 }
-.contact a{
+
+.contact a {
     text-decoration: none;
 }
